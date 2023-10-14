@@ -476,8 +476,11 @@ int main(int argc, char **argv)
 ```
 ## Output:
 With Memset:
+
 ![v1](https://github.com/Hemapriya-2004/PCA-Matrix-Addition-With-Unified-Memory/assets/94184828/75ff15de-2b18-423c-a0e1-5cd0620860ab)
+
 Without Memset:
+
 ![v2](https://github.com/Hemapriya-2004/PCA-Matrix-Addition-With-Unified-Memory/assets/94184828/93ba288a-fbc4-4461-80ff-103cc45f47b6)
 
 ## Result:
